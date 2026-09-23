@@ -2,6 +2,8 @@
 
 ### ML-Based Student Mental Wellness Score Prediction
 
+DataSet Link : https://www.kaggle.com/datasets/shivasingh4945/student-social-media-and-mental-health-impact
+
 🔗 **Live Demo:** https://mansik-santulan-score-1-k4s9.onrender.com
 
 ## 📌 About the Project
